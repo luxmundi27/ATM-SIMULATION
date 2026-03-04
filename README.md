@@ -4,7 +4,7 @@ Using my python knowledge to mimic the operation of an ATM machine
 
 A functional Python-based Command Line Interface (CLI) application designed to mimic the core operations of a real-world Automated Teller Machine. This project demonstrates foundational programming logic, user authentication, and state management.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The primary goal of this simulation is to provide a secure and interactive environment for users to perform basic banking tasks. The program focuses on:
 
@@ -12,7 +12,7 @@ The primary goal of this simulation is to provide a secure and interactive envir
 * **Transaction Management:** Handling real-time updates to account balances.
 * **Input Validation:** Ensuring robust error handling for withdrawals, deposits, and invalid menu selections.
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 To build and run this program, the following technical competencies and tools are utilized:
 
@@ -29,7 +29,7 @@ To build and run this program, the following technical competencies and tools ar
 * **Functionality:** Modularizing code using functions for clean, reusable logic.
 * **Exception Handling:** Preventing crashes from non-numeric inputs or insufficient funds.
 
-## 🚀 Features
+## Features
 
 * **Check Balance:** View current account holdings instantly.
 * **Cash Withdrawal:** Securely deduct funds with balance verification.
@@ -37,7 +37,7 @@ To build and run this program, the following technical competencies and tools ar
 * **PIN Change:** (Optional/Future feature) Allow users to update their security credentials.
 * **Exit:** Securely terminate the session.
 
-## 💻 How to Run
+##  How to Run
 
 1. **Clone the repository:**
 ```bash
